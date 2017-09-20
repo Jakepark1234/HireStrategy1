@@ -1,0 +1,5 @@
+C:\Users\Madusudan Sharma\Documents\Visual Studio 2015\Projects\Codility\HireStrategy\HireStrategy.Test.Data\bin\Debug\HireStrategy.Test.Data.dll
+C:\Users\Madusudan Sharma\Documents\Visual Studio 2015\Projects\Codility\HireStrategy\HireStrategy.Test.Data\bin\Debug\HireStrategy.Test.Data.pdb
+C:\Users\Madusudan Sharma\Documents\Visual Studio 2015\Projects\Codility\HireStrategy\HireStrategy.Test.Data\obj\Debug\HireStrategy.Test.Data.csprojResolveAssemblyReference.cache
+C:\Users\Madusudan Sharma\Documents\Visual Studio 2015\Projects\Codility\HireStrategy\HireStrategy.Test.Data\obj\Debug\HireStrategy.Test.Data.dll
+C:\Users\Madusudan Sharma\Documents\Visual Studio 2015\Projects\Codility\HireStrategy\HireStrategy.Test.Data\obj\Debug\HireStrategy.Test.Data.pdb

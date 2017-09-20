@@ -1,0 +1,11 @@
+C:\Users\Madusudan Sharma\Documents\Visual Studio 2015\Projects\Codility\HireStrategy\HireStrategy.Test.ConsoleApp\bin\Debug\HireStrategy.Test.ConsoleApp.exe.config
+C:\Users\Madusudan Sharma\Documents\Visual Studio 2015\Projects\Codility\HireStrategy\HireStrategy.Test.ConsoleApp\bin\Debug\HireStrategy.Test.ConsoleApp.exe
+C:\Users\Madusudan Sharma\Documents\Visual Studio 2015\Projects\Codility\HireStrategy\HireStrategy.Test.ConsoleApp\bin\Debug\HireStrategy.Test.ConsoleApp.pdb
+C:\Users\Madusudan Sharma\Documents\Visual Studio 2015\Projects\Codility\HireStrategy\HireStrategy.Test.ConsoleApp\bin\Debug\HireStrategy.Test.Data.dll
+C:\Users\Madusudan Sharma\Documents\Visual Studio 2015\Projects\Codility\HireStrategy\HireStrategy.Test.ConsoleApp\bin\Debug\HireStrategy.Test.Data.pdb
+C:\Users\Madusudan Sharma\Documents\Visual Studio 2015\Projects\Codility\HireStrategy\HireStrategy.Test.ConsoleApp\obj\Debug\HireStrategy.Test.ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\Madusudan Sharma\Documents\Visual Studio 2015\Projects\Codility\HireStrategy\HireStrategy.Test.ConsoleApp\obj\Debug\HireStrategy.Test.ConsoleApp.exe
+C:\Users\Madusudan Sharma\Documents\Visual Studio 2015\Projects\Codility\HireStrategy\HireStrategy.Test.ConsoleApp\obj\Debug\HireStrategy.Test.ConsoleApp.pdb
+D:\HireStrategy\HireStrategy.Test.ConsoleApp\bin\Debug\HireStrategy.Test.ConsoleApp.exe.config
+D:\HireStrategy\HireStrategy.Test.ConsoleApp\obj\Debug\HireStrategy.Test.ConsoleApp.exe
+D:\HireStrategy\HireStrategy.Test.ConsoleApp\obj\Debug\HireStrategy.Test.ConsoleApp.pdb
